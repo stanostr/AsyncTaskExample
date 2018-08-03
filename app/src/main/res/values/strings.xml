@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fibonacci Number Calculator</string>
+    <string name="number_prompt">Which number would you like to find (Enter an integer):</string>
+    <string name="compute">Compute!</string>
+    <string name="result">Result: %1$s</string>
+    <string name="no_input_message">You did not enter anything!</string>
+</resources>
